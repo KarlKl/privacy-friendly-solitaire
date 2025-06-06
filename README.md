@@ -21,9 +21,6 @@ This application has been developed to be used as a basis for a Privacy Friendly
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
      alt="Get it on F-Droid"
      height="80">](https://f-droid.org/packages/org.secuso.privacyfriendlysolitaire/)
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
-     alt="Get it on Google Play"
-     height="80">](https://play.google.com/store/apps/details?id=org.secuso.privacyfriendlysolitaire)
 
 ## More Information
 
